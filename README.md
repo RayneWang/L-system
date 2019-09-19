@@ -8,3 +8,5 @@ This updated L-system includes:
 - rotation in X and Z axis (so trees are 3D with depth)
 - interpreter that defines a simple set of rules (can be added on) and allows the user to define new set of rules using the existing rules
 - one symbol can be mapped to multiple rules with different probabilities 
+- animation of the growth of tree
+- simulates fall by having the leaves change color and fall off the tree
