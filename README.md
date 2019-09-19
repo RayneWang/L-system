@@ -1,5 +1,5 @@
 # L-system
-This L-system is based off of [Brenden Morales' L-system](https://github.com/Brenden-Morales/Three.js-L-systems).
+This is an L-system created using three.js and webGL.This system is built upon [Brenden Morales' L-system](https://github.com/Brenden-Morales/Three.js-L-systems).
 
 This updated L-system includes: 
 - cylinder branches (with texture mapping)
